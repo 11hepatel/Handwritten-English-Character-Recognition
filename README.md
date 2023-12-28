@@ -1,6 +1,7 @@
 Objective of this project: Enhanced a Convolutional Neural Network (CNN) model to achieve higher accuracy in recognizing and classifying handwritten English alphabets from A to Z using the provided image dataset. 
 The chosen model was trained to accurately learn the patterns and features in the images to make predictions about which alphabet is written.  Additionally, also developed a GUI for live predictions.  
 
+Dataset: https://www.kaggle.com/datasets/sachinpatel21/az-handwritten-alphabets-in-csv-format  
 
 Results: Increased the test accuracy from 99.15% to 99.19%. 
 
