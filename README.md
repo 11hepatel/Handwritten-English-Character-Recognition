@@ -5,15 +5,11 @@ Dataset: https://www.kaggle.com/datasets/sachinpatel21/az-handwritten-alphabets-
 
 Results: Increased the test accuracy from 99.15% to 99.19%. 
 
-  ![image](https://github.com/11hepatel/Handwritten-English-Character-Recognition/assets/73201634/899f6bff-f1d9-4cf9-8a7a-c3c8e18d9000)
-
-  ![image](https://github.com/11hepatel/Handwritten-English-Character-Recognition/assets/73201634/77ce5c91-bb6b-4b11-9fec-64820b3876c5)
+![image](https://github.com/11hepatel/Handwritten-English-Character-Recognition/assets/73201634/899f6bff-f1d9-4cf9-8a7a-c3c8e18d9000)    ![image](https://github.com/11hepatel/Handwritten-English-Character-Recognition/assets/73201634/77ce5c91-bb6b-4b11-9fec-64820b3876c5)
 
 New Model: 
 
-  ![image](https://github.com/11hepatel/Handwritten-English-Character-Recognition/assets/73201634/d7a28448-e0d7-438a-9a38-2fe38f7602c2)
-
-  ![image](https://github.com/11hepatel/Handwritten-English-Character-Recognition/assets/73201634/f0e2550a-8aee-40a6-8657-69045b04d74f)
+  ![image](https://github.com/11hepatel/Handwritten-English-Character-Recognition/assets/73201634/d7a28448-e0d7-438a-9a38-2fe38f7602c2)    ![image](https://github.com/11hepatel/Handwritten-English-Character-Recognition/assets/73201634/f0e2550a-8aee-40a6-8657-69045b04d74f)
 
 GUI: 
 
